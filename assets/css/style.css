@@ -1,0 +1,56 @@
+* {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    text-align: right;
+    padding-top: 15px;
+}
+
+h5 {
+    display: inline;
+    position: relative;
+    padding: 20px;
+}
+
+.header-footer {
+    background-color: rgb(67, 112, 87);
+    color: white;
+    height: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.contact-me {
+    background-color: bisque;
+    padding: 20px;
+}
+
+figcaption {
+    padding: 5px;
+    margin: 15px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    margin: 15px;
+}
+
+.container {
+    border: 2px solid orange;
+    border-radius: 20%;
+}
